@@ -1,0 +1,155 @@
+div.extra{
+    margin-bottom: 20px;
+    
+}
+
+div.carousel{
+    max-width: 100%;
+    margin: 20px;
+}
+
+img.barley{
+    float: right;
+    max-width: 240px;
+    margin-left: 18px;
+    margin-right: 55px;
+    margin-top: 10px;
+    text-align: left;
+    
+}
+
+aside.barleytxt{
+    margin-top: 10px;
+    margin-left: 55px;
+    text-align: justify;
+}
+
+h2.barleyh{
+    font-size: 25px;
+    margin-top: 28px;
+    margin-right: 10px;
+    margin-left: 52px;
+    font-style: italic;
+}
+
+img.egipto{
+    float: left;
+    max-width: 470px;
+    margin-left: 55px;
+    margin-right: 18px;
+    margin-top: 10px;
+    text-align: right;
+    display: flex;
+}
+
+h2.egiptoh{
+    font-size: 25px;
+    margin-left: 55px;
+    font-style: italic;
+    margin-top: 27px;
+}
+h2.indianh{
+    font-size: 25px;
+    margin-left: 55px;
+    font-style: italic;
+}
+
+img.ipa{
+    float: left;
+    max-width: 340px;
+    margin-left: 55px;
+    margin-right: 18px;
+    margin-top: 10px;
+    text-align: right;
+    display: flex;
+}
+
+aside.ipatxt{
+    margin-top: 15px;
+    margin-right: 65px;
+    text-align: justify;
+}
+
+div.carousel{
+    margin-top: 40px;
+    margin-left: 51px;
+    margin-right: 51px;
+}
+
+img.malbe{
+    float: left;
+    max-width: 440px;
+    margin-left: 55px;
+    margin-right: 18px;
+    margin-top: 10px;
+    text-align: right;
+    display: flex;
+}
+
+h2.malbec{
+    font-size: 25px;
+    margin-left: 55px;
+    font-style: italic;
+    margin-top: 70px;
+}
+
+aside.malbectxt{
+    margin-top: 15px;
+    margin-right: 65px;
+    text-align: justify;
+}
+
+img.blancoimg{
+    float: right;
+    max-width: 420px;
+    margin-left: 18px;
+    margin-right: 55px;
+    margin-top: 10px;
+    text-align: left;
+    display: flex;
+}
+
+h2.blanco{
+    font-size: 25px;
+    margin-left: 55px;
+    font-style: italic;
+    margin-top: 40px;
+}
+
+aside.blancotxt{
+    margin-top: 10px;
+    margin-left: 55px;
+    text-align: justify;
+}
+
+h2.vinohist{
+    font-size: 25px;
+    margin-left: 55px;
+    font-style: italic;
+    margin-top: 40px;
+}
+
+img.vinohistimg{
+    float: left;
+    max-width: 480px;
+    margin-left: 55px;
+    margin-right: 18px;
+    margin-top: 10px;
+    text-align: right;
+    display: flex;
+}
+
+aside.vinohistxt{
+    margin-top: 15px;
+    margin-right: 65px;
+    text-align: justify;
+}
+
+img.cer{
+    display: block;
+    height: 600px;
+    width: 1400px;
+}
+
+
+

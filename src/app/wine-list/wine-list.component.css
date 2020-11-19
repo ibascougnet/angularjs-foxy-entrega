@@ -1,0 +1,45 @@
+h1{
+    color: rgb(31, 31, 31);
+    margin-left: 15px;
+    margin-top: 22px;
+    font-size: 33px;
+}
+
+img{
+    max-width: 100px;
+}
+
+
+
+table{
+    margin-left: 10px;
+}
+
+td.stock{
+    text-align: center;
+    
+}
+
+td.quantity{
+    margin-left: 160px;
+    margin-right: 0px;
+}
+
+td.shop{
+    margin-left: 0px;
+    align-items: center;
+    
+}
+
+button{
+    margin-left: 15px;
+    
+}
+
+th.st{
+    margin-left: 0px;
+}
+
+th.comp{
+    margin-left: 0px;
+}

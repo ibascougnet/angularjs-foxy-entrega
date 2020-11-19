@@ -1,0 +1,11 @@
+input{
+    max-width: 79px;
+    text-align: center;
+    margin-right: 20px;
+
+}
+
+button{
+    display: inline-block;
+    margin-right: 9px;
+}
